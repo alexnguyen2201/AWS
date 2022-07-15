@@ -44,3 +44,7 @@ client = boto3.client('s3')
 response = client.list_buckets()
 print(response)
 ```
+
+## DynamoDB CDC Streams
+
+![](https://res.cloudinary.com/dhiqlejfy/image/upload/v1657806589/Screen_Shot_2022-07-14_at_20.49.25_ebodik.png)
